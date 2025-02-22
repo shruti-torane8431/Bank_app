@@ -1,5 +1,4 @@
-1.Project Title
-Example: # Bank Application using OOP in Python
+1.Project Title: *Bank Application using OOP in Python*
 
 2.Description
 This is a simple bank application built using Object-Oriented Programming (OOP) in Python.
